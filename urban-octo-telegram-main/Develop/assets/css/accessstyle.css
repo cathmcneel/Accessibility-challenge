@@ -35,18 +35,20 @@ header div {
 header div ul {
     list-style-type: none;
 }
-
 header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
 p {
     font-size: 16px;
 }
+
 /* HEADER STYLE ENDS*/
 .hero {
     height: 800px;
